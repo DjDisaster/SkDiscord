@@ -1,0 +1,7 @@
+name: SkDiscord
+version: '${project.version}'
+main: skdiscord.skdiscord.SkDiscord
+api-version: 1.19
+depend: [ Skript ]
+authors: [ DjDisaster ]
+description: An awesome addon
